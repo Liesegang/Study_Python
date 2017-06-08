@@ -4,6 +4,6 @@ def my_sum(*arg):
         s += x
     return s
 
-if __main__ == '__main__':
+if __name__ == '__main__':
     print(my_sum(1,2,3))
     print(my_sum(1,2,3,4,5))
