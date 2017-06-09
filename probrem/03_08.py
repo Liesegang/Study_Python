@@ -6,4 +6,5 @@ def is_perfect(n):
     if s == 2*n:
         return True
     return False
- 
+
+# 良いと思います

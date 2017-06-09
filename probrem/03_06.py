@@ -7,3 +7,4 @@ def my_sum(*arg):
 if __name__ == '__main__':
     print(my_sum(1,2,3))
     print(my_sum(1,2,3,4,5))
+# いいですね

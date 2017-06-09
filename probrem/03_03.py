@@ -7,4 +7,4 @@ for i in range(1,101):
          print('Fizz')
     else:
          print(i) 
-
+# 言うことないですね
